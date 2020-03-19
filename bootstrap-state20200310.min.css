@@ -106,6 +106,7 @@ a{
         }
 
         div.button {
+			z-index: 99;
             background:url(./menu1.png);
 			border:1px solid #333333;
             width: 100%;
